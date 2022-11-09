@@ -40,7 +40,7 @@ Html
 							<td class="info-peso">100</td>
 							<td class="info-altura">2.00</td>
 							<td class="info-gordura">10</td>
-							<td class="info-imc">0</td>
+							<td class="info-imc">25</td>
 						</tr>
 
 						<tr class="paciente" >
