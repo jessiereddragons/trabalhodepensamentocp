@@ -99,10 +99,32 @@ if (altura <= 0 || altura >= 3.00) {
     console.log("Altura inválida!");
     alturaEhValida = false;
     tdImc.textContent = "Altura inválida";
+			
+	[ 
+    {  
+        "nome": "Jéssica",
+        "peso": 47,
+        "altura": 1.54,
+        "gordura": 17,
+        "imc": 19.82
+
+    },
+    {
+        "nome": "Flavio",
+        "peso": 70,
+        "altura": 1.7,
+        "gordura": 17,
+        "imc": 20.76
+    }
+//...
 }
 
 		</script>
-
+<script src="js/calcula-imc.js"></script>
+<script src="js/form.js"></script>
+<script src="js/remover-paciente.js"></script>
+<script src="js/filtra.js"></script>
+<script src="js/buscar-pacientes.js"></script>
 	</body>
 </html>
 
