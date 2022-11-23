@@ -126,5 +126,18 @@ if (altura <= 0 || altura >= 3.00) {
 <script src="js/filtra.js"></script>
 <script src="js/buscar-pacientes.js"></script>
 	</body>
+	
+	
+	console.log("Aqui tem um recado para você");
+	
+	alert("Olá");
+	
+	IMC = peso / altura x altura;
+	
+	< tr class="paciente" id="primeiro-paciente">...</tr>
+<td class="info-peso">100</td>
+	
+	</script>
+	</css>
 </html>
 
